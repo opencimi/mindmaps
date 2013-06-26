@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#cc99ff" CREATED="1343130658267" ID="ID_997968685" MODIFIED="1365841261060">
+<node BACKGROUND_COLOR="#cc99ff" CREATED="1343130658267" ID="ID_997968685" MODIFIED="1372205038053">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26,10 +26,10 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;|Observation request procedure|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(is a 308539001&#160;|Request procedure|)</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;|Observation request procedure|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(&lt; 308539001&#160;|Request procedure|)</font>
     </p>
     <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#cc0000">&lt; 288532009&#160;|context values for action|</font>
+      &#160;&#160;&#160;&#160;&#160;Modifier =<font color="#cc0000">&#160;</font><font color="#666666">288532009&#160;|context values for action|</font>
     </p>
     <p>
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
@@ -49,7 +49,7 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1343130758977" ID="ID_628556429" MODIFIED="1360052693563" POSITION="left">
+<node CREATED="1343130758977" ID="ID_628556429" MODIFIED="1372204373952" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -66,10 +66,10 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
+      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Subject of care|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;{descendant of |Hasparticipation|}</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Has subject of care|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(&lt; |Has participation|)</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;125676002&#160;|Person| </font>
@@ -78,22 +78,23 @@
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font>
     </p>
     <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
+      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160;</font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;function in </font><font color="#cc0000">CIMI_participation_function_refset </font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;function &lt;&lt; </font><font color="#cc0000">|Has subject of care|</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;mode in </font><font color="#cc0000">CIMI_participation_mode_refset</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1343130758977" ID="ID_589553693" MODIFIED="1357694465179" POSITION="left">
+<node CREATED="1343130758977" ID="ID_589553693" MODIFIED="1372204392731" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -110,10 +111,10 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
+      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Has information subject|</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Has information subject|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(&lt; |Has participation|)</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;125676002&#160;|Person| or 389109008 |Group|&#160;&#160;&#160;&#160; </font>
@@ -122,22 +123,23 @@
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font>
     </p>
     <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
+      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;function in </font><font color="#cc0000">CIMI_participation_function_refset </font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;function &lt;&lt; </font><font color="#cc0000">|Has information subject|</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;mode in </font><font color="#cc0000">CIMI_participation_mode_refset</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_829179953" MODIFIED="1365839186421" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_829179953" MODIFIED="1372205472314" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -147,8 +149,7 @@
       <b><font color="#000000">Request action</font></b><font color="#990099">:</font><b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.observation_request_action&gt; [1]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(item: CLUSTER)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -158,13 +159,13 @@
       <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Has request action|</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Has request action| &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(&lt; |Has clinical action|)</font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;|Observation request procedure|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(is a 308539001&#160;|Request procedure|)</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;|Observation request procedure|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(&lt; 308539001&#160;|Request procedure|)</font>
     </p>
     <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#cc0000">&lt;&#160;288532009&#160;|Context values for action|</font>
+      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#666666">288532009&#160;|Context values for action|</font>
     </p>
     <p>
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
@@ -928,7 +929,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_320106979" MODIFIED="1365824868323" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_320106979" MODIFIED="1372205634194" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -948,19 +949,16 @@
       <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Requested|</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Has requested observable|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(&lt; |Has requested item|</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;363787002 |Observable entity|</font>
     </p>
     <p>
-      &#160;&#160;&#160;&#160;&#160;&#160;Modifier = <font color="#cc0000">385644000 |Requested|</font>
+      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#cc0000">385644000 |Requested|</font>
     </p>
     <p>
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;target.status.value =</font><font color="#cc0000">&#160;385644000 |Requested|</font>
     </p>
   </body>
 </html>
@@ -1484,7 +1482,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1343130790124" ID="ID_409217522" MODIFIED="1357694651663" POSITION="left">
+<node COLOR="#0033ff" CREATED="1343130790124" ID="ID_409217522" MODIFIED="1372204404931" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1501,7 +1499,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
+      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Has participation|</font>
@@ -1513,18 +1511,19 @@
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font><font color="#cc0000">&#160; </font>
     </p>
     <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
+      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;function in </font><font color="#cc0000">CIMI_participation_function_refset </font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;function &lt;&lt; </font><font color="#cc0000">|Has participation|</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;mode in </font><font color="#cc0000">CIMI_participation_mode_refset</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026959759" ID="ID_268109750" MODIFIED="1365824756842" POSITION="left">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026959759" ID="ID_268109750" MODIFIED="1372205197545" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1544,7 +1543,7 @@
       <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Requested|</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Has requested observation|</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;363787002 |Observable entity|</font>
@@ -1565,7 +1564,7 @@
 </html>
 </richcontent>
 </node>
-<node COLOR="#0033ff" CREATED="1345432959860" ID="ID_646021003" MODIFIED="1357695865271" POSITION="left">
+<node COLOR="#0033ff" CREATED="1345432959860" ID="ID_646021003" MODIFIED="1372204416380" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1582,7 +1581,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
+      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
@@ -1591,21 +1590,19 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;</font><font color="#999999">138875005&#160;|SNOMED CT concept|</font>
     </p>
     <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font><font color="#cc0000">&#160; </font>
+      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context&#160;values|&#160; </font>
     </p>
     <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
+      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;meaning in </font><font color="#cc0000">CIMI_link_meaning_refset </font>
     </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;type in </font><font color="#cc0000">CIMI_link_type_refset</font>
-    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1346026383413" FOLDED="true" ID="ID_1460775918" MODIFIED="1360062352022" POSITION="right">
+<node CREATED="1346026383413" FOLDED="true" ID="ID_1460775918" MODIFIED="1372204448808" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1622,7 +1619,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
+      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Has action|</font>
@@ -1631,13 +1628,14 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;71388002 |Procedure|</font>
     </p>
     <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#cc0000">&lt;&#160;288532009&#160;|Context values for action|</font>
+      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#666666">288532009&#160;|Context values for action|</font>
     </p>
     <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
+      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1346026383413" ID="ID_421823535" MODIFIED="1360052192763">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2258,41 +2256,6 @@
   </body>
 </html></richcontent>
 </node>
-</node>
-<node CREATED="1343130758977" ID="ID_1657910973" MODIFIED="1360052739520" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#660066">Details:</font>&#160;<font color="#009900">[0..*]&#160;</font><font color="#0000ff">(data: ITEM)</font>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;</font><font color="#999999">138875005&#160;|SNOMED CT concept|</font>
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font><font color="#cc0000">&#160; </font>
-    </p>
-    <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 </map>
