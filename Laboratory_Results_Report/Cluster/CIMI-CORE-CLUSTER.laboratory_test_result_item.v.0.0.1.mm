@@ -487,17 +487,18 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026595687" ID="ID_1036250255" MODIFIED="1358461492954" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026595687" ID="ID_1036250255" MODIFIED="1372854073798" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Poct indicator</b><font color="#009900">: CODED_TEXT [0..1]</font><b>&#160;</b><font color="#660066">(details)</font>&#160;<font color="#0000ff">(item: ELEMENT)</font>
+      <b>Poct indicator</b><font color="#009900">: CODED_TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -524,17 +525,18 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026595687" ID="ID_331997598" MODIFIED="1358461492954" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026595687" ID="ID_331997598" MODIFIED="1372854066838" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Specimen</b><font color="#009900">: REF&lt;CIMI-CORE-CLUSTER.specimen&gt; [0..1]</font><b>&#160;</b><font color="#660066">(details)</font>&#160;<font color="#0000ff">(item: CLUSTER)</font>
+      <b>Specimen</b><font color="#009900">: REF&lt;CIMI-CORE-CLUSTER.specimen&gt; [0..1]</font><b>&#160;</b><font color="#0000ff">(item: CLUSTER)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -548,40 +550,6 @@
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;123038009&#160;|Specimen|</font>
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#cc0000">288529006 |Context values| </font>
-    </p>
-    <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1346026959759" ID="ID_719512959" MODIFIED="1357720527750" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#660066">Details</font><b>&#160;</b><font color="#009900">[0..*] </font><font color="#0000ff">(item: ITEM)</font>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;106237007 |Linkage concept|</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;138875005&#160;|SNOMED CT concept|</font>
     </p>
     <p>
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#cc0000">288529006 |Context values| </font>
@@ -5072,17 +5040,18 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1343130790124" ID="ID_378676900" MODIFIED="1357720551791" POSITION="left">
+<node COLOR="#0033ff" CREATED="1343130790124" ID="ID_378676900" MODIFIED="1372854050420" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Participation </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
+      <font color="#660066">Participation: </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5109,17 +5078,18 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#0033ff" CREATED="1345432959860" ID="ID_429998593" MODIFIED="1357720551801" POSITION="left">
+<node COLOR="#0033ff" CREATED="1345432959860" ID="ID_429998593" MODIFIED="1372854055603" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Link </font><font color="#00cc00">[0..*] (</font>link: LINK)
+      <font color="#660066">Link: </font><font color="#00cc00">[0..*] (</font>link: LINK)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     

@@ -36,14 +36,14 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1343130758977" ID="ID_628556429" MODIFIED="1362092786022" POSITION="left">
+<node CREATED="1343130758977" ID="ID_628556429" MODIFIED="1372851940357" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#990099">Subject of care </font><font color="#009900">[0..1] </font><font color="#0000ff">(participation: PARTICIPATION)</font>
+      <font color="#990099">Subject of care: </font><font color="#009900">[0..1] </font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
 </html></richcontent>
@@ -80,14 +80,14 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1343130758977" ID="ID_589553693" MODIFIED="1358407829755" POSITION="left">
+<node CREATED="1343130758977" ID="ID_589553693" MODIFIED="1372851946959" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Information subject</font>&#160;<font color="#009900">[0..1]&#160;</font><font color="#0000ff">(participation: PARTICIPATION)</font>
+      <font color="#660066">Information subject:</font>&#160;<font color="#009900">[0..1]&#160;</font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
 </html></richcontent>
@@ -10671,14 +10671,14 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1343130790124" ID="ID_409217522" MODIFIED="1358407829769" POSITION="left">
+<node COLOR="#0033ff" CREATED="1343130790124" ID="ID_409217522" MODIFIED="1372851955233" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Participation </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
+      <font color="#660066">Participation: </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
     </p>
   </body>
 </html></richcontent>
@@ -10711,14 +10711,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1345757620281" ID="ID_1064909295" MODIFIED="1358407829780" POSITION="left">
+<node CREATED="1345757620281" ID="ID_1064909295" MODIFIED="1372851961790" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#990099">Associated request </font><font color="#009900">[0..*]</font>&#160;<font color="#0000ff">(link: LINK)</font>
+      <font color="#990099">Associated request: </font><font color="#009900">[0..*]</font>&#160;<font color="#0000ff">(link: LINK)</font>
     </p>
   </body>
 </html></richcontent>
@@ -10746,14 +10746,14 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#0033ff" CREATED="1345432959860" ID="ID_646021003" MODIFIED="1358407829793" POSITION="left">
+<node COLOR="#0033ff" CREATED="1345432959860" ID="ID_646021003" MODIFIED="1372851967480" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Link </font><font color="#00cc00">[0..*] (</font>link: LINK)
+      <font color="#660066">Link: </font><font color="#00cc00">[0..*] (</font>link: LINK)
     </p>
   </body>
 </html></richcontent>
@@ -10786,48 +10786,14 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ffffff" CREATED="1346026595687" ID="ID_541943119" MODIFIED="1358407816838" POSITION="right">
+<node CREATED="1345757620281" ID="ID_434722316" MODIFIED="1372852002916" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Details</font>&#160;<font color="#009900">[0..*] </font><font color="#0000ff">(item: ITEM)</font>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;</font><font color="#999999">138875005&#160;|SNOMED CT concept|</font>
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font><font color="#cc0000">&#160; </font>
-    </p>
-    <p>
-      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1345757620281" ID="ID_434722316" MODIFIED="1362092988908" POSITION="left">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#990099">Associated request identifier: </font><font color="#009900">IDENTIFIER [0..*]</font>&#160;<font color="#0000ff">(item: ELEMENT)</font>
+      <font color="#990099">Associated request identifier: </font><font color="#009900">IDENTIFIER [0..*]</font>&#160;<font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
 </html></richcontent>
@@ -10852,18 +10818,17 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1346026383413" FOLDED="true" ID="ID_654525652" MODIFIED="1358407816849" POSITION="right">
+<node CREATED="1346026383413" FOLDED="true" ID="ID_654525652" MODIFIED="1372852014714" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#990099">Observe action:</font><b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.observe_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(item: CLUSTER)</font>
+      <font color="#990099">Observe action:</font><b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.observe_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
 </html></richcontent>
@@ -11620,14 +11585,14 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1346026383413" FOLDED="true" ID="ID_1391152556" MODIFIED="1358407816859" POSITION="right">
+<node CREATED="1346026383413" FOLDED="true" ID="ID_1391152556" MODIFIED="1372852022709" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#990099">Interpret action:</font><b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.interpret_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(item: CLUSTER)</font>
+      <font color="#990099">Interpret action:</font><b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.interpret_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
 </html></richcontent>
@@ -12381,14 +12346,14 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1346026383413" FOLDED="true" ID="ID_1768772536" MODIFIED="1358407816870" POSITION="right">
+<node CREATED="1346026383413" FOLDED="true" ID="ID_1768772536" MODIFIED="1372852031768" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#990099">Approve action:</font><b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.approve_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(item: CLUSTER)</font>
+      <font color="#990099">Approve action:</font><b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.approve_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
 </html></richcontent>
@@ -13145,14 +13110,14 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1346026383413" FOLDED="true" ID="ID_1787080235" MODIFIED="1358407816881" POSITION="right">
+<node CREATED="1346026383413" FOLDED="true" ID="ID_1787080235" MODIFIED="1372852038958" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#990099">Report action:</font><b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.report_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(item: CLUSTER)</font>
+      <font color="#990099">Report action:</font><b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.report_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
 </html></richcontent>
@@ -13915,14 +13880,14 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1346026383413" FOLDED="true" ID="ID_829179953" MODIFIED="1358407806461" POSITION="right">
+<node CREATED="1346026383413" FOLDED="true" ID="ID_829179953" MODIFIED="1372852045038" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#990099">Cancel action</font>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.cancel_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(item: CLUSTER)</font>
+      <font color="#990099">Cancel action</font>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.cancel_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
 </html></richcontent>
@@ -14685,14 +14650,14 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1346026383413" FOLDED="true" ID="ID_1471190788" MODIFIED="1358407806471" POSITION="right">
+<node CREATED="1346026383413" FOLDED="true" ID="ID_1471190788" MODIFIED="1372852051053" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#990099">Update action</font>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.update_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(item: CLUSTER)</font>
+      <font color="#990099">Update action</font>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.update_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
 </html></richcontent>
@@ -15455,14 +15420,14 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1346026383413" FOLDED="true" ID="ID_1460775918" MODIFIED="1358407806482" POSITION="right">
+<node CREATED="1346026383413" FOLDED="true" ID="ID_1460775918" MODIFIED="1372852061608" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#990099">Action</font>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.action&gt; [0..*]</font><b>&#160;</b><font color="#0000ff">(item: CLUSTER)</font>
+      <font color="#990099">Action</font>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.action&gt; [0..*]</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
 </html></richcontent>

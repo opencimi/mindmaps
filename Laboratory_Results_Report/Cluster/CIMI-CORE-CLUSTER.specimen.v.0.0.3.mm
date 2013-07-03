@@ -68,20 +68,20 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node COLOR="#0033ff" CREATED="1343130790124" ID="ID_1854272455" MODIFIED="1358408248979" POSITION="left">
+<node COLOR="#0033ff" CREATED="1343130790124" ID="ID_1854272455" MODIFIED="1372854820608" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Participation </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
+      <font color="#660066">Participation: </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -111,17 +111,18 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#0033ff" CREATED="1345432959860" ID="ID_1599651629" MODIFIED="1358408249000" POSITION="left">
+<node COLOR="#0033ff" CREATED="1345432959860" ID="ID_1599651629" MODIFIED="1372854828448" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Link </font><font color="#00cc00">[0..*] (</font>link: LINK)
+      <font color="#660066">Link: </font><font color="#00cc00">[0..*] (</font>link: LINK)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -183,20 +184,20 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1158210151" MODIFIED="1358461810037" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1158210151" MODIFIED="1372854853104" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Source specimen identifier</b>:<b>&#160;</b><font color="#009900">IDENTIFIER [0..1]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(item: ELEMENT)</font>
+      <b>Source specimen identifier</b>:<b>&#160;</b><font color="#009900">IDENTIFIER [0..1]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -218,8 +219,7 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1575224760" MODIFIED="1358461810037" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -253,8 +253,7 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_464347958" MODIFIED="1358461810037" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -288,20 +287,20 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_981757238" MODIFIED="1358461810037" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_981757238" MODIFIED="1372854866149" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Specimen volume</b>:<b>&#160;</b><font color="#009900">QUANTITY [0..1]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(item: ELEMENT)</font>
+      <b>Specimen volume</b>:<b>&#160;</b><font color="#009900">QUANTITY [0..1]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -323,20 +322,20 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_868229490" MODIFIED="1358461810037" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_868229490" MODIFIED="1372854873840" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Specimen weight</b>:<b>&#160;</b><font color="#009900">QUANTITY [0..*]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(item: ELEMENT)</font>
+      <b>Specimen weight</b>:<b>&#160;</b><font color="#009900">QUANTITY [0..*]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -358,20 +357,20 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1627923035" MODIFIED="1358461810037" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1627923035" MODIFIED="1372854880437" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Specimen dimension</b>:<b>&#160;</b><font color="#009900">QUANTITY [0..*]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(item: ELEMENT)</font>
+      <b>Specimen dimension</b>:<b>&#160;</b><font color="#009900">QUANTITY [0..*]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -393,20 +392,20 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1256621855" MODIFIED="1358461810037" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1256621855" MODIFIED="1372854886916" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Specimen size description</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(item: ELEMENT)</font>
+      <b>Specimen size description</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -428,20 +427,20 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1427946799" MODIFIED="1358461810037" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1427946799" MODIFIED="1372854893167" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Sequence number</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(item: ELEMENT)</font>
+      <b>Sequence number</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -463,20 +462,20 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_777735469" MODIFIED="1358461810037" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_777735469" MODIFIED="1372854899152" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Specimen additive</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(item: ELEMENT)</font>
+      <b>Specimen additive</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -498,20 +497,20 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_489028716" MODIFIED="1358461810037" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_489028716" MODIFIED="1372854905309" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Specimen handling risk</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(item: ELEMENT)</font>
+      <b>Specimen handling risk</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -533,20 +532,20 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1002736386" MODIFIED="1358461810037" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1002736386" MODIFIED="1372854912309" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Special handling instructions</b>:<b>&#160;</b><font color="#009900">TEXT [0..*]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(item: ELEMENT)</font>
+      <b>Special handling instructions</b>:<b>&#160;</b><font color="#009900">TEXT [0..*]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -568,8 +567,7 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_1935228707" MODIFIED="1358461810037" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -1471,7 +1469,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_69259104" MODIFIED="1358461810021" POSITION="left">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_69259104" MODIFIED="1372854835918" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2234,40 +2232,6 @@
   </body>
 </html></richcontent>
 </node>
-</node>
-<node BACKGROUND_COLOR="#ffffff" CREATED="1346026595687" ID="ID_541943119" MODIFIED="1358408238459" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#660066">Details</font>&#160;<font color="#009900">[0..*] </font><font color="#0000ff">(item: ITEM)</font>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;</font><font color="#999999">138875005&#160;|SNOMED CT concept|</font>
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font><font color="#cc0000">&#160; </font>
-    </p>
-    <p>
-      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
-    </p>
-  </body>
-</html></richcontent>
 </node>
 <node CREATED="1346026383413" FOLDED="true" ID="ID_1439099982" MODIFIED="1358408249050" POSITION="left">
 <richcontent TYPE="NODE"><html>

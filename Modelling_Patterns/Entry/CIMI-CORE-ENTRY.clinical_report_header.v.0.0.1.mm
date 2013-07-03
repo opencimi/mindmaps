@@ -46,8 +46,7 @@
       <b>Report id</b>:<b>&#160;</b><font color="#009900">IDENTIFIER [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -81,8 +80,7 @@
       <b>Versioned report id</b>:<b>&#160;</b><font color="#009900">IDENTIFIER [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -116,8 +114,7 @@
       <b>Report version</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -151,8 +148,7 @@
       <b>Status</b>:<b>&#160;</b><font color="#009900">CODED_TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -186,8 +182,7 @@
       <b>Report type</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -392,8 +387,7 @@
       <b>Conclusions</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -427,8 +421,7 @@
       <b>Recommendations</b>:<b>&#160;</b><font color="#009900">TEXT [0..*]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -462,8 +455,7 @@
       <b>Comments</b>:<b>&#160;</b><font color="#009900">TEXT [0..*]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -497,8 +489,7 @@
       <b>Report representation</b>:<b>&#160;</b><font color="#009900">MULTIMEDIA [0..*]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -532,8 +523,7 @@
       <b>Report link</b>:<b>&#160;</b><font color="#009900">URI [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     

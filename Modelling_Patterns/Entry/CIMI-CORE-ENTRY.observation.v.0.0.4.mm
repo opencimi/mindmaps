@@ -275,8 +275,7 @@
       <b>Observable</b>:<b>&#160;</b><font color="#006633">REF&lt;CIMI-CORE-CLUSTER.observable&gt; [1]</font><font color="#009900">&#160;</font><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -611,8 +610,7 @@
       <b>Results</b>:&#160;<font color="#006633">REF&lt;CIMI-CORE-CLUSTER.finding&gt; [1]</font><font color="#009900">&#160;</font><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5712,8 +5710,7 @@
       <b>Observe action</b>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.observe_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -6477,8 +6474,7 @@
       <b>Interpret action</b>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.interpret_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -7239,8 +7235,7 @@
       <b>Approve action</b>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.approve_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -8004,8 +7999,7 @@
       <b>Report action</b>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.report_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
