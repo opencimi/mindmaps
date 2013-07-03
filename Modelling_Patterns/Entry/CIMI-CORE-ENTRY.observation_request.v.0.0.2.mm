@@ -47,19 +47,19 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;AND Information_subject.party.relationship.target = Subject_of_care</font>
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1343130758977" ID="ID_628556429" MODIFIED="1372204373952" POSITION="left">
+</html></richcontent>
+<node CREATED="1343130758977" ID="ID_628556429" MODIFIED="1372850255731" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Subject of care </font><font color="#009900">[0..1] </font><font color="#0000ff">(participation: PARTICIPATION)</font>
+      <font color="#660066">Subject of care: </font><font color="#009900">[0..1] </font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -90,21 +90,21 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;mode in </font><font color="#cc0000">CIMI_participation_mode_refset</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1343130758977" ID="ID_589553693" MODIFIED="1372204392731" POSITION="left">
+<node CREATED="1343130758977" ID="ID_589553693" MODIFIED="1372850264429" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Information subject:</font>&#160;<font color="#009900">[0..1]&#160;</font><font color="#0000ff">(participation: PARTICIPATION)</font>
+      <font color="#660066">Information subject::</font>&#160;<font color="#009900">[0..1]&#160;</font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -135,21 +135,21 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;mode in </font><font color="#cc0000">CIMI_participation_mode_refset</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_829179953" MODIFIED="1372205472314" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_829179953" MODIFIED="1372850299401" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b><font color="#000000">Request action</font></b><font color="#990099">:</font><b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.observation_request_action&gt; [1]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(item: CLUSTER)</font>
+      <font color="#000000"><b>Request action</b></font><font color="#990099">:</font><b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.observation_request_action&gt; [1]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -171,8 +171,7 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node BACKGROUND_COLOR="#9999ff" CREATED="1346026383413" ID="ID_514332" MODIFIED="1360061473166">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -961,8 +960,7 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1346026595687" ID="ID_1878543317" MODIFIED="1360062504029">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1520,8 +1518,7 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;mode in </font><font color="#cc0000">CIMI_participation_mode_refset</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1346026959759" ID="ID_268109750" MODIFIED="1372205197545" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -1561,8 +1558,7 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;target.status.value &lt;&lt;</font><font color="#cc0000">&#160;385644000 |Requested|</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#0033ff" CREATED="1345432959860" ID="ID_646021003" MODIFIED="1372204416380" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -1599,20 +1595,20 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;meaning in </font><font color="#cc0000">CIMI_link_meaning_refset </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1346026383413" FOLDED="true" ID="ID_1460775918" MODIFIED="1372204448808" POSITION="right">
+<node CREATED="1346026383413" FOLDED="true" ID="ID_1460775918" MODIFIED="1372850306610" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#990099">Action</font>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.action&gt; [0..*]</font><b>&#160;</b><font color="#0000ff">(item: CLUSTER)</font>
+      <font color="#990099">Action</font>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.action&gt; [0..*]</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1634,8 +1630,7 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1346026383413" ID="ID_421823535" MODIFIED="1360052192763">
 <richcontent TYPE="NODE"><html>
   <head>
