@@ -68,8 +68,7 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1346026595687" ID="ID_34010402" MODIFIED="1358459824296" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -103,8 +102,7 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1346026595687" ID="ID_518381087" MODIFIED="1358459824296" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -138,8 +136,7 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1346026590635" ID="ID_893465406" MODIFIED="1358459824296" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -176,8 +173,7 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Value in</font><font color="#cc0000">&#160;CIMI_result_status_refset</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1346026595687" ID="ID_212999620" MODIFIED="1358459824296" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -214,55 +210,20 @@
       &#160;&#160;&#160;&#160;&#160;<font color="#0000ff">Value </font><font color="#cc0000">in CIMI_laboratory_test_priority_refset</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026595687" ID="ID_678358650" MODIFIED="1358459824296" POSITION="right">
+<node COLOR="#0033ff" CREATED="1343130790124" ID="ID_800707532" MODIFIED="1372851235420" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Details</b>&#160;<font color="#009900">[0..*] </font><font color="#0000ff">(item: ITEM)</font>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;</font><font color="#999999">138875005&#160;|SNOMED CT concept|</font>
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font><font color="#cc0000">&#160; </font>
-    </p>
-    <p>
-      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
+      <font color="#660066">Participation: </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
     </p>
   </body>
 </html>
 </richcontent>
-</node>
-<node COLOR="#0033ff" CREATED="1343130790124" ID="ID_800707532" MODIFIED="1357721594256" POSITION="left">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#660066">Participation </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
-    </p>
-  </body>
-</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -292,17 +253,18 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#0033ff" CREATED="1345432959860" ID="ID_207401809" MODIFIED="1357721487742" POSITION="left">
+<node COLOR="#0033ff" CREATED="1345432959860" ID="ID_207401809" MODIFIED="1372851240521" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Link </font><font color="#00cc00">[0..*] (</font>link: LINK)
+      <font color="#660066">Link: </font><font color="#00cc00">[0..*] (</font>link: LINK)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     

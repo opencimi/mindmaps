@@ -58,8 +58,7 @@
       <b>Subject of care: </b><font color="#009900">[0..1] </font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -103,8 +102,7 @@
       <b>Information subject:</b>&#160;<font color="#009900">[0..1] </font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -148,8 +146,7 @@
       <font color="#660066">Participation:</font>&#160;<font color="#009900">[0..*] </font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -190,8 +187,7 @@
       <font color="#660066">Link:</font>&#160;<font color="#009900">[0..*] </font><font color="#0000ff">(link: LINK)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -229,8 +225,7 @@
       <b>Action</b>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.action&gt; [0..*]</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     

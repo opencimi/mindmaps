@@ -46,8 +46,7 @@
       <font color="#990099">Subject of care: </font><font color="#009900">[0..1] </font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -91,8 +90,7 @@
       <font color="#660066">Information subject:</font>&#160;<font color="#009900">[0..1]&#160;</font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -139,8 +137,7 @@
       <font color="#660066">Participation:</font>&#160;<font color="#009900">[0..*]&#160;</font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -181,8 +178,7 @@
       <font color="#000000"><b>Associated request: </b></font><font color="#009900">[0..*] </font><font color="#0000ff">(link)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -238,8 +234,7 @@
       <font color="#660066">Link: </font><font color="#009900">[0..*]&#160;</font><font color="#0000ff">(link: LINK)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -270,17 +265,18 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_6997" MODIFIED="1372850148088" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_6997" MODIFIED="1372851477722" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Observable</b>:<b>&#160;</b><font color="#006633">REF&lt;CIMI-CORE-CLUSTER.observable&gt; [1]</font><font color="#009900">&#160;</font><font color="#990099">(details) </font><font color="#0000ff">(data: CLUSTER)</font>
+      <b>Observable</b>:<b>&#160;</b><font color="#006633">REF&lt;CIMI-CORE-CLUSTER.observable&gt; [1]</font><font color="#009900">&#160;</font><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -605,17 +601,18 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026407606" FOLDED="true" ID="ID_652837926" MODIFIED="1358454577075" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026407606" FOLDED="true" ID="ID_652837926" MODIFIED="1372851478239" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Results</b>:&#160;<font color="#006633">REF&lt;CIMI-CORE-CLUSTER.finding&gt; [1]</font><font color="#009900">&#160;</font><font color="#990099">(details)</font><font color="#009900">&#160;</font><font color="#0000ff">(data: CLUSTER)</font>
+      <b>Results</b>:&#160;<font color="#006633">REF&lt;CIMI-CORE-CLUSTER.finding&gt; [1]</font><font color="#009900">&#160;</font><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5705,7 +5702,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_918190992" MODIFIED="1372850167162" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_918190992" MODIFIED="1372851464319" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6470,7 +6467,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_1391152556" MODIFIED="1372850181333" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_1391152556" MODIFIED="1372851463649" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7232,7 +7229,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_1768772536" MODIFIED="1372850191588" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_1768772536" MODIFIED="1372851462933" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7997,7 +7994,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_1787080235" MODIFIED="1372850198432" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" FOLDED="true" ID="ID_1787080235" MODIFIED="1372851458797" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8778,8 +8775,7 @@
       <b>Cancel action</b>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.cancel_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -9549,8 +9545,7 @@
       <font color="#000000"><b>Update action:</b></font><b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.update_action&gt; [0..*]</font><b>&#160;</b><font color="#660066">(action)</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -10320,8 +10315,7 @@
       <font color="#990099">Action</font>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.action&gt; [0..*]</font><b>&#160;</b><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -10972,8 +10966,7 @@
       <font color="#000000"><b>Associated request identifier</b></font><font color="#990099">: </font><font color="#009900">IDENTIFIER [0..*]</font>&#160;<font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     

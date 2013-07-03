@@ -36,17 +36,18 @@
     </p>
   </body>
 </html></richcontent>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1846309835" MODIFIED="1358454061430" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1846309835" MODIFIED="1372851313460" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Report id</b>:<b>&#160;</b><font color="#009900">IDENTIFIER [0..1]</font><b>&#160;</b><font color="#660066">(details)</font><b>&#160; </b><font color="#0000ff">(data: ELEMENT)</font>
+      <b>Report id</b>:<b>&#160;</b><font color="#009900">IDENTIFIER [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -70,17 +71,18 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1534020789" MODIFIED="1358454061440" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1534020789" MODIFIED="1372851322356" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Versioned report id</b>:<b>&#160;</b><font color="#009900">IDENTIFIER [0..1]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(data: ELEMENT)</font>
+      <b>Versioned report id</b>:<b>&#160;</b><font color="#009900">IDENTIFIER [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -104,17 +106,18 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_804928799" MODIFIED="1358454061440" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_804928799" MODIFIED="1372851330028" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Report version</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(data: ELEMENT)</font>
+      <b>Report version</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -138,17 +141,18 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1193792362" MODIFIED="1358454061440" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1193792362" MODIFIED="1372851338096" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Status</b>:<b>&#160;</b><font color="#009900">CODED_TEXT [0..1]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(data: ELEMENT)</font>
+      <b>Status</b>:<b>&#160;</b><font color="#009900">CODED_TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -172,17 +176,18 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1825473378" MODIFIED="1358454061430" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1825473378" MODIFIED="1372851350774" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Report type</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(data: ELEMENT)</font>
+      <b>Report type</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -216,8 +221,7 @@
       <font color="#660066">Subject of care: </font><font color="#009900">[0..1] </font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -261,8 +265,7 @@
       <font color="#660066">Information subject:</font>&#160;<font color="#009900">[0..1]&#160;</font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -309,8 +312,7 @@
       <font color="#990099">Participation: </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -350,8 +352,7 @@
       <font color="#990099">Link: </font><font color="#00cc00">[0..*] (</font>link: LINK)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -381,17 +382,18 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1349555291" MODIFIED="1358454061430" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1349555291" MODIFIED="1372851359128" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Conclusions</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(data: ELEMENT)</font>
+      <b>Conclusions</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -415,17 +417,18 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1155350963" MODIFIED="1358454061430" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1155350963" MODIFIED="1372851371826" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Recommendations</b>:<b>&#160;</b><font color="#009900">TEXT [0..*]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(data: ELEMENT)</font>
+      <b>Recommendations</b>:<b>&#160;</b><font color="#009900">TEXT [0..*]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -449,17 +452,18 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_657687007" MODIFIED="1358454061430" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_657687007" MODIFIED="1372851379117" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Comments</b>:<b>&#160;</b><font color="#009900">TEXT [0..*]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(data: ELEMENT)</font>
+      <b>Comments</b>:<b>&#160;</b><font color="#009900">TEXT [0..*]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -483,17 +487,18 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_18767891" MODIFIED="1358454061430" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_18767891" MODIFIED="1372851385586" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Report representation</b>:<b>&#160;</b><font color="#009900">MULTIMEDIA [0..*]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(data: ELEMENT)</font>
+      <b>Report representation</b>:<b>&#160;</b><font color="#009900">MULTIMEDIA [0..*]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -517,17 +522,18 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_264540504" MODIFIED="1358454061430" POSITION="right">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_264540504" MODIFIED="1372851391601" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Report link</b>:<b>&#160;</b><font color="#009900">URI [0..1]</font><b>&#160;</b><font color="#660066">(details) </font><font color="#0000ff">(data: ELEMENT)</font>
+      <b>Report link</b>:<b>&#160;</b><font color="#009900">URI [0..1]</font><b>&#160;</b><font color="#0000ff">(data: ELEMENT)</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     

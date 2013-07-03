@@ -496,43 +496,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1346026959759" ID="ID_1706392024" MODIFIED="1357719147101" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#660066">Details</font><b>&#160;</b><font color="#009900">[0..*] </font><font color="#0000ff">(item: ITEM)</font>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;</font><font color="#999999">138875005&#160;|SNOMED CT concept|</font>
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font><font color="#cc0000">&#160; </font>
-    </p>
-    <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
-    </p>
-    <p>
-      
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1346026383413" FOLDED="true" ID="ID_918190992" MODIFIED="1357719325722" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5010,17 +4973,18 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1343130790124" ID="ID_902982978" MODIFIED="1357719368506" POSITION="left">
+<node COLOR="#0033ff" CREATED="1343130790124" ID="ID_902982978" MODIFIED="1372851138368" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Participation </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
+      <font color="#660066">Participation: </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5050,17 +5014,18 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#0033ff" CREATED="1345432959860" ID="ID_68516348" MODIFIED="1357719390081" POSITION="left">
+<node COLOR="#0033ff" CREATED="1345432959860" ID="ID_68516348" MODIFIED="1372851143427" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#660066">Link </font><font color="#00cc00">[0..*] (</font>link: LINK)
+      <font color="#660066">Link: </font><font color="#00cc00">[0..*] (</font>link: LINK)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
