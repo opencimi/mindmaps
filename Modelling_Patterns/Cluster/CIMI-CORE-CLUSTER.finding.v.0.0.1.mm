@@ -20,6 +20,44 @@
   </head>
   <body>
     <p>
+      <font color="#000000"><b>Description: </b></font>
+    </p>
+    <p>
+      <b><font color="#000000">OriginalAuthorName: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">OriginalAuthorEmail: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">OriginalAuthorDate:</font></b>
+    </p>
+    <p>
+      <b><font color="#000000">OriginalAuthorOrganisation: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Contributors: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Purpose: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Use: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Misuse: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Keywords: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Resources: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Copyright:</font></b>
+    </p>
+    <p>
+    </p>
+    <p>
       <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
     </p>
     <p>

@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#cc99ff" CREATED="1343130658267" ID="ID_997968685" MODIFIED="1360835435954">
+<node BACKGROUND_COLOR="#cc99ff" CREATED="1343130658267" ID="ID_997968685" MODIFIED="1375405737932">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -20,7 +20,45 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
+      <font color="#000000"><b>Description: </b></font>
+    </p>
+    <p>
+      <b><font color="#000000">OriginalAuthorName: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">OriginalAuthorEmail: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">OriginalAuthorDate:</font></b>
+    </p>
+    <p>
+      <b><font color="#000000">OriginalAuthorOrganisation: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Contributors: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Purpose: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Use: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Misuse: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Keywords: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Resources: </font></b>
+    </p>
+    <p>
+      <b><font color="#000000">Copyright:</font></b>
+    </p>
+    <p>
+    </p>
+    <p>
+      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;106237007 |Linkage concept|</font>
@@ -32,10 +70,11 @@
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#cc0000">288529006 |Context values| </font>
     </p>
     <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
+      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node COLOR="#0033ff" CREATED="1345432959860" ID="ID_1428842186" MODIFIED="1360835260379" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
