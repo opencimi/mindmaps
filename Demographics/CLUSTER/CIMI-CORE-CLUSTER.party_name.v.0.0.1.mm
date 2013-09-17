@@ -10,7 +10,7 @@
       <b>Party name</b>
     </p>
     <p style="text-align: center">
-      <font color="#660066">(Cluster)</font>
+      <font color="#660066">(CLUSTER)</font>
     </p>
   </body>
 </html></richcontent>
