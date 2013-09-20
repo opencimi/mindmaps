@@ -200,7 +200,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Patient encounter:</b></font><b><font color="#009933">&#160;</font></b><font color="#009933">[0..*]</font><font color="#00cc00">&#160;</font>(link:LINK)
+      <font color="#000000"><b>Patient encounter:</b></font><b><font color="#009933">&#160;</font></b><font color="#009933">[0..*]</font><font color="#00cc00">&#160;</font>(link: LINK)
     </p>
   </body>
 </html>

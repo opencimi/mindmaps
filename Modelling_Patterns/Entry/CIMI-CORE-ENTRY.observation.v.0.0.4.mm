@@ -213,7 +213,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Associated request: </b></font><font color="#009900">[0..*] </font><font color="#0000ff">(link)</font>
+      <font color="#000000"><b>Associated request: </b></font><font color="#009900">[0..*] </font><font color="#0000ff">(link: LINK)</font>
     </p>
   </body>
 </html></richcontent>
