@@ -465,7 +465,7 @@
   </head>
   <body>
     <p>
-      <b>Location</b>:<b>&#160;</b><font color="#009900">PARTICIPATION [0..*]</font><b>&#160;</b><font color="#0000ff">(PARTICIPATION)</font>
+      <b>Location</b>:<b>&#160;</b><font color="#009900">PARTICIPATION [0..*]</font><b>&#160;</b><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
 </html></richcontent>
