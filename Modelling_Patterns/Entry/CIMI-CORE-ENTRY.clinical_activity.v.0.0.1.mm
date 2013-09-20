@@ -181,7 +181,7 @@
   </head>
   <body>
     <p>
-      <b>Clinical action</b>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.action&gt; </font><font color="#660066">(action)</font><font color="#009900">&#160;</font><font color="#0000ff">(data: CLUSTER)</font>
+      <b>Clinical action</b>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.action&gt; [0..*]</font><font color="#660066">(action)</font><font color="#009900">&#160;</font><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
 </html></richcontent>

@@ -169,7 +169,7 @@
   </head>
   <body>
     <p>
-      <b>Patient encounter</b>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.encounter_action&gt; </font><font color="#660066">(action)</font><font color="#009900">&#160;</font><font color="#0000ff">(data: CLUSTER)</font>
+      <b>Patient encounter</b>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-CLUSTER.encounter_action&gt; [0..*]</font><font color="#660066">(action)</font><font color="#009900">&#160;</font><font color="#0000ff">(data: CLUSTER)</font>
     </p>
   </body>
 </html></richcontent>
