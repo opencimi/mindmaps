@@ -384,8 +384,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1448746604" MODIFIED="1358461936695" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -502,8 +501,7 @@
       <font color="#660066">Participation: </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -574,8 +572,7 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;type in </font><font color="#cc0000">CIMI_link_type_refset</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1820594724" MODIFIED="1372850908730" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -701,8 +698,7 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;type in </font><font color="#cc0000">CIMI_link_type_refset</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </map>

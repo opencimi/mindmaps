@@ -170,8 +170,7 @@
       <b>Request datetime</b><font color="#009900">: DATETIME [0..1] </font><font color="#990099">(datetime)</font><font color="#009900">&#160;</font><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -397,8 +396,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1346026383413" ID="ID_396663093" MODIFIED="1357722682453" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -481,8 +479,7 @@
       <b>Clinical information provided: </b><font color="#009900">[0..*] </font><font color="#0000ff">(item: ITEM)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -504,8 +501,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1346025952350" ID="ID_900462510" MODIFIED="1372854665647" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -517,8 +513,7 @@
       <b>Requester</b>:<b>&#160;</b><font color="#009900">[0..*] </font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -555,8 +550,7 @@
       <font color="#000000"><b>Location&#160;of subject:</b></font>&#160;<font color="#009900">[0..1] </font><font color="#660066">(location)</font><font color="#009900">&#160;</font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -578,8 +572,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1345757620281" ID="ID_1041528534" MODIFIED="1372854565042" POSITION="left">

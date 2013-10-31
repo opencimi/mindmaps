@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#cc99ff" CREATED="1343130658267" ID="ID_997968685" MODIFIED="1357711984521">
+<node BACKGROUND_COLOR="#cc99ff" CREATED="1343130658267" ID="ID_997968685" MODIFIED="1383235067767">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23,39 +23,40 @@
       <font color="#000000"><b>Description: </b></font>
     </p>
     <p>
-      <b><font color="#000000">OriginalAuthorName: </font></b>
+      <font color="#000000"><b>OriginalAuthorName: </b></font>
     </p>
     <p>
-      <b><font color="#000000">OriginalAuthorEmail: </font></b>
+      <font color="#000000"><b>OriginalAuthorEmail: </b></font>
     </p>
     <p>
-      <b><font color="#000000">OriginalAuthorDate:</font></b>
+      <font color="#000000"><b>OriginalAuthorDate:</b></font>
     </p>
     <p>
-      <b><font color="#000000">OriginalAuthorOrganisation: </font></b>
+      <font color="#000000"><b>OriginalAuthorOrganisation: </b></font>
     </p>
     <p>
-      <b><font color="#000000">Contributors: </font></b>
+      <font color="#000000"><b>Contributors: </b></font>
     </p>
     <p>
-      <b><font color="#000000">Purpose: </font></b>
+      <font color="#000000"><b>Purpose: </b></font>
     </p>
     <p>
-      <b><font color="#000000">Use: </font></b>
+      <font color="#000000"><b>Use: </b></font>
     </p>
     <p>
-      <b><font color="#000000">Misuse: </font></b>
+      <font color="#000000"><b>Misuse: </b></font>
     </p>
     <p>
-      <b><font color="#000000">Keywords: </font></b>
+      <font color="#000000"><b>Keywords: </b></font>
     </p>
     <p>
-      <b><font color="#000000">Resources: </font></b>
+      <font color="#000000"><b>Resources: </b></font>
     </p>
     <p>
-      <b><font color="#000000">Copyright:</font></b>
+      <font color="#000000"><b>Copyright:</b></font>
     </p>
     <p>
+      
     </p>
     <p>
       <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
@@ -73,7 +74,8 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1236455553" MODIFIED="1358461734130" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -186,8 +188,7 @@
       <font color="#660066">Participation: </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -227,8 +228,7 @@
       <font color="#660066">Link: </font><font color="#00cc00">[0..*] (</font>link: LINK)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -258,7 +258,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1346026383413" FOLDED="true" ID="ID_1439099982" MODIFIED="1357717481322" POSITION="left">
+<node CREATED="1346026383413" FOLDED="true" ID="ID_1439099982" MODIFIED="1383235067683" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -290,7 +290,8 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1346026383413" ID="ID_421823535" MODIFIED="1357606845776">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -861,40 +862,6 @@
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;type in </font><font color="#cc0000">CIMI_link_type_refset</font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1346026383413" ID="ID_1829837198" MODIFIED="1357717480006">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#990099">Details</font>:<b>&#160;</b><font color="#009900">[0..*]</font><b>&#160;</b><font color="#0000ff">(item: ITEM)</font>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;</font><font color="#999999">138875005&#160;|SNOMED CT concept|</font>
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font><font color="#cc0000">&#160; </font>
-    </p>
-    <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
   </body>
 </html></richcontent>

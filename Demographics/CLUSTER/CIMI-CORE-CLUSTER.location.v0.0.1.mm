@@ -941,39 +941,5 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1904445716" MODIFIED="1359875877893" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Details</b>:<b>&#160;</b><font color="#009900">[0..*]</font><b>&#160;</b><font color="#0000ff">(item: ITEM)</font>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;106237007 |Linkage concept|</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;138875005&#160;|SNOMED CT concept|</font>
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#cc0000">288529006 |Context values| </font>
-    </p>
-    <p>
-      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 </map>

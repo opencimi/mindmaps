@@ -393,8 +393,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1346026383413" ID="ID_808130687" MODIFIED="1357722359138" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -477,8 +476,7 @@
       <b>Reporter</b>:<b>&#160;</b><font color="#009900">[0..*] </font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -515,8 +513,7 @@
       <font color="#000000"><b>Location&#160;of subject:</b></font>&#160;<font color="#009900">[0..1] </font><font color="#660066">(location)</font><font color="#009900">&#160;</font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -538,8 +535,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node BACKGROUND_COLOR="#9999ff" CREATED="1345757620281" ID="ID_1113938124" MODIFIED="1372854516210" POSITION="left">
@@ -552,8 +548,7 @@
       <font color="#000000"><b>Location&#160;of reporter: </b></font><font color="#009900">[0..1] </font><font color="#660066">(location)</font><font color="#009900">&#160;</font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     

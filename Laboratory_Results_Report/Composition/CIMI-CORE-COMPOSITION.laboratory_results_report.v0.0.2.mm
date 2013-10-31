@@ -118,8 +118,7 @@
       <font color="#990099">Subject of Care:</font><font color="#009933"><b>&#160;</b>[0..1]</font><font color="#00cc00">&#160;</font><font color="#6666ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -162,8 +161,7 @@
       <font color="#990099">Participation: </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -203,8 +201,7 @@
       <font color="#000000"><b>Patient encounter:</b></font><b><font color="#009933">&#160;</font></b><font color="#009933">[0..*]</font><font color="#00cc00">&#160;</font>(link: LINK)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -275,8 +272,7 @@
       <b>Laboratory test request summary</b>:<b>&#160;</b><font color="#009900">REF&lt;CIMI-CORE-ENTRY.laboratory_test_request_summary&gt; [0..*]</font><b>&#160;</b><font color="#0000ff">(content: ENTRY)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -310,8 +306,7 @@
       <b>Laboratory result</b>:<b>&#160;</b><font color="#009900">SLOT&lt;CIMI-CORE-ENTRY.laboratory_test_observation&gt; [0..*]</font><b>&#160;</b><font color="#0000ff">(content: ENTRY)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -345,8 +340,7 @@
       <font color="#990099">Link: </font><font color="#009933">[0..*]</font><font color="#00cc00">&#160;(</font>link: LINK)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     

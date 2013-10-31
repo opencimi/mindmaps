@@ -84,8 +84,7 @@
       <b>Reference criteria</b>:<b>&#160;</b><font color="#009900">TEXT [0..*]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -187,8 +186,7 @@
       <b>Narrative</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -222,8 +220,7 @@
       <font color="#660066">Participation: </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -263,8 +260,7 @@
       <font color="#660066">Link: </font><font color="#00cc00">[0..*] (</font>link: LINK)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     

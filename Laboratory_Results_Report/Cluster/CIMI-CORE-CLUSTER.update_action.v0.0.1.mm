@@ -167,8 +167,7 @@
       <b>Update datetime:</b><font color="#009900">&#160;DATETIME [0..1] </font><font color="#990099">(datetime)</font><font color="#009900">&#160;</font><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -394,8 +393,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1346026383413" ID="ID_1124865710" MODIFIED="1358216298085" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -478,8 +476,7 @@
       <b>Updater</b>:<b>&#160;</b><font color="#009900">[0..*] </font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -516,8 +513,7 @@
       <font color="#000000"><b>Location&#160;of subject:</b></font>&#160;<font color="#009900">[0..1] </font><font color="#660066">(location)</font><font color="#009900">&#160;</font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -539,8 +535,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node BACKGROUND_COLOR="#9999ff" CREATED="1345757620281" ID="ID_46770193" MODIFIED="1372855039998" POSITION="left">
@@ -553,8 +548,7 @@
       <font color="#000000"><b>Location&#160;of updater</b>: </font><font color="#009900">[0..1] </font><font color="#660066">(location)</font><font color="#009900">&#160;</font><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     

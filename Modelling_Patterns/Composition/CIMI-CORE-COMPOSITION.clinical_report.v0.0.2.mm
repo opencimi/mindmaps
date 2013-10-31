@@ -118,8 +118,7 @@
       <font color="#000000"><b>Subject of Care:</b></font><b><font color="#009933">&#160;</font></b><font color="#009933">[0..1]</font><font color="#00cc00">&#160;</font><font color="#6666ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -162,8 +161,7 @@
       <font color="#990099">Participation: </font><font color="#00cc00">[0..*] </font>(participation: PARTICIPATION)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -206,8 +204,7 @@
       <font color="#990099">Link: </font><font color="#00cc00">[0..*] (</font>link: LINK)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
