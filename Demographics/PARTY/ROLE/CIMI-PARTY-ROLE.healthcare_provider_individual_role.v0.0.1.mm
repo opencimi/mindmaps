@@ -414,7 +414,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1346026383413" FOLDED="true" ID="ID_1861570641" MODIFIED="1361757996171" POSITION="right">
+<node CREATED="1346026383413" FOLDED="true" ID="ID_1861570641" MODIFIED="1383351297560" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -446,8 +446,9 @@
       <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html></richcontent>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1386231678" MODIFIED="1361757777304">
+</html>
+</richcontent>
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_1386231678" MODIFIED="1383351288422">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -464,7 +465,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
+      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
@@ -476,12 +477,13 @@
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values| </font>
     </p>
     <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
+      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_833092322" MODIFIED="1361757798655">
+<node BACKGROUND_COLOR="#ccccff" CREATED="1346026383413" ID="ID_833092322" MODIFIED="1383351294924">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -498,7 +500,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
+      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
@@ -510,44 +512,11 @@
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values| </font>
     </p>
     <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
+      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html></richcontent>
-</node>
-<node CREATED="1346026383413" ID="ID_431555299" MODIFIED="1360232418166">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#990099">Details</font>:<b>&#160;</b><font color="#009900">[0..*]</font><b>&#160;</b><font color="#0000ff">(details: ITEM)</font>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;</font><font color="#999999">138875005&#160;|SNOMED CT concept|</font>
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values| </font>
-    </p>
-    <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
-    </p>
-  </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1346026383413" ID="ID_1748904208" MODIFIED="1361758004956" POSITION="right">

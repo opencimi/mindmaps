@@ -74,7 +74,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1346026383413" FOLDED="true" ID="ID_203963205" MODIFIED="1360234618769" POSITION="right">
+<node CREATED="1346026383413" FOLDED="true" ID="ID_203963205" MODIFIED="1383351242051" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -91,7 +91,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
+      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
@@ -103,10 +103,11 @@
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values| </font>
     </p>
     <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
+      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1346026383413" ID="ID_257926555" MODIFIED="1360233599820">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -115,40 +116,6 @@
   <body>
     <p>
       <font color="#660066">Value</font>:<b>&#160;</b><font color="#009900">IDENTIFIER [1]</font><b>&#160;</b><font color="#0000ff">(item: ELEMENT)</font>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
-    </p>
-    <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;</font><font color="#999999">138875005&#160;|SNOMED CT concept|</font>
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values| </font>
-    </p>
-    <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1346026383413" ID="ID_1686912374" MODIFIED="1360233607032">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#660066">Details</font>:<b>&#160;</b><font color="#009900">[0..*]</font><b>&#160;</b><font color="#0000ff">(item: ITEM)</font>
     </p>
   </body>
 </html></richcontent>
@@ -490,7 +457,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1346026383413" ID="ID_1191196221" MODIFIED="1361756224229">
+<node CREATED="1346026383413" ID="ID_1191196221" MODIFIED="1383351242081">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -507,7 +474,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Terminology Binding:</b>&#160;</font>
+      <b><font color="#000000">Terminology Binding:</font></b><font color="#000000">&#160;</font>
     </p>
     <p>
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
@@ -519,10 +486,11 @@
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values| </font>
     </p>
     <p>
-      <font color="#000000"><b>Constraints:</b>&#160; </font>
+      <b><font color="#000000">Constraints:</font></b><font color="#000000">&#160; </font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1346026383413" ID="ID_150971297" MODIFIED="1360234528424">
 <richcontent TYPE="NODE"><html>
@@ -637,8 +605,7 @@
       <font color="#660066">Link: </font><font color="#00cc00">[0..*] (</font>link: LINK)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
