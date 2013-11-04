@@ -20332,7 +20332,7 @@
   </head>
   <body>
     <p>
-      <b><font color="#000000">Oxygen partial pressure in blood</font></b><font color="#009900">: REF&lt;CIMI-CORE-CLUSTER.oxygen partial pressure in blood&gt; [1]</font>&#160;<font color="#660066">(finding item)</font>&#160;<font color="#0000ff">(item: CLUSTER)</font>
+      <b><font color="#000000">Oxygen partial pressure in blood</font></b><font color="#009900">: REF&lt;CIMI-CORE-CLUSTER.oxygen_partial_pressure_in_blood&gt; [1]</font>&#160;<font color="#660066">(finding item)</font>&#160;<font color="#0000ff">(item: CLUSTER)</font>
     </p>
   </body>
 </html></richcontent>
