@@ -7,7 +7,7 @@
   </head>
   <body>
     <p style="text-align: center">
-      <b>Gas and carbon monoxide result gorup</b>
+      <b>Gas and carbon monoxide result group</b>
     </p>
     <p style="text-align: center">
       <font color="#660066">(Results)</font>
