@@ -10,7 +10,7 @@
       <b><font color="#000000">pH of blood</font></b>
     </p>
     <p style="text-align: center">
-      <font color="#660066">(Finding item)</font>
+      <font color="#660066">(Finding Item)</font>
     </p>
   </body>
 </html>
