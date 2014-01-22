@@ -7,7 +7,7 @@
   </head>
   <body>
     <p style="text-align: center">
-      <b>Request action</b>
+      <b>Request Action</b>
     </p>
     <p style="text-align: center">
       <font color="#660066">(Action)</font>
