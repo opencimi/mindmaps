@@ -160,7 +160,7 @@
   </head>
   <body>
     <p>
-      <b>Finding item</b><font color="#009900">: REF&lt;CIMI-CORE-CLUSTER.finding_item&gt; [0..*]</font>&#160;<font color="#660066">(finding)</font>&#160;<font color="#0000ff">(item: CLUSTER)</font>
+      <b>Finding Item</b><font color="#009900">: REF&lt;CIMI-CORE-CLUSTER.finding_item&gt; [0..*]</font>&#160;<font color="#660066">(finding)</font>&#160;<font color="#0000ff">(item: CLUSTER)</font>
     </p>
   </body>
 </html></richcontent>
