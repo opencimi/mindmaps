@@ -10,7 +10,7 @@
       <b>Reference Range</b>
     </p>
     <p style="text-align: center">
-      <font color="#660066">(Findng Item)</font>
+      <font color="#660066">(Finding Item)</font>
     </p>
   </body>
 </html></richcontent>
