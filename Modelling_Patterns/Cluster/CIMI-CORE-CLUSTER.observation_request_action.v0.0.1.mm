@@ -7,10 +7,10 @@
   </head>
   <body>
     <p style="text-align: center">
-      <b>Request Action</b>
+      <b>Observation Request Action</b>
     </p>
     <p style="text-align: center">
-      <font color="#660066">(Action)</font>
+      <font color="#660066">(Request Action)</font>
     </p>
   </body>
 </html>
