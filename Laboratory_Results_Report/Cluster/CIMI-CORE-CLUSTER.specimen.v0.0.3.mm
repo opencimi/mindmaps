@@ -197,7 +197,7 @@
   </head>
   <body>
     <p>
-      <b>Container identifier</b>:<b>&#160;</b><font color="#009900">IUDENTIFIER [0..1]</font><b>&#160;</b><font color="#660066">(identifier) </font><font color="#0000ff">(item: ELEMENT)</font>
+      <b>Container identifier</b>:<b>&#160;</b><font color="#009900">IDENTIFIER [0..1]</font><b>&#160;</b><font color="#660066">(identifier) </font><font color="#0000ff">(item: ELEMENT)</font>
     </p>
   </body>
 </html></richcontent>
