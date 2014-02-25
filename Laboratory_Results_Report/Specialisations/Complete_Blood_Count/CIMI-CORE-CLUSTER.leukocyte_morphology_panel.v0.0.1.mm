@@ -33,7 +33,7 @@
       <b><font color="#000000">OriginalAuthorDate:</font></b>
     </p>
     <p>
-      <b><font color="#000000">OriginalAuthorOrganisation: </font></b>
+      <b><font color="#000000">OriginalAuthorOrganization: </font></b>
     </p>
     <p>
       <b><font color="#000000">Contributors: </font></b>
@@ -1092,7 +1092,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -1825,7 +1825,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -2552,7 +2552,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -3282,7 +3282,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -4021,7 +4021,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -5998,7 +5998,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -6731,7 +6731,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -7458,7 +7458,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -8188,7 +8188,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -8927,7 +8927,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -10621,7 +10621,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -11354,7 +11354,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -12081,7 +12081,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -12811,7 +12811,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>
@@ -13550,7 +13550,7 @@
       <font color="#000000"><b>Constraints:</b>&#160; </font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANISATION</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;party &lt;</font><font color="#cc0000">&#160;PERSON&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">GROUP&#160; </font><font color="#000000">or party &lt; </font><font color="#cc0000">ORGANIZATION</font>
     </p>
   </body>
 </html></richcontent>

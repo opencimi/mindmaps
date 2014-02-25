@@ -32,7 +32,7 @@
       <b><font color="#000000">OriginalAuthorDate:</font></b>
     </p>
     <p>
-      <b><font color="#000000">OriginalAuthorOrganisation: </font></b>
+      <b><font color="#000000">OriginalAuthorOrganization: </font></b>
     </p>
     <p>
       <b><font color="#000000">Contributors: </font></b>
@@ -520,7 +520,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000"><b>Healthcare organisation</b></font>:<b>&#160;</b><font color="#009900">[0..*]</font><b>&#160;</b><font color="#0000ff">(participation: PARTICIPATION)</font>
+      <font color="#000000"><b>Healthcare organization</b></font>:<b>&#160;</b><font color="#009900">[0..*]</font><b>&#160;</b><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
 </html>

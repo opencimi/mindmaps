@@ -7,7 +7,7 @@
   </head>
   <body>
     <p style="text-align: center">
-      <b><font color="#000000">Organisation relationship</font></b>
+      <b><font color="#000000">Organization relationship</font></b>
     </p>
     <p style="text-align: center">
       <font color="#660066">(PARTY_RELATIONSHIP)</font>
@@ -32,7 +32,7 @@
       <b><font color="#000000">OriginalAuthorDate:</font></b>
     </p>
     <p>
-      <b><font color="#000000">OriginalAuthorOrganisation: </font></b>
+      <b><font color="#000000">OriginalAuthorOrganization: </font></b>
     </p>
     <p>
       <b><font color="#000000">Contributors: </font></b>
@@ -65,7 +65,7 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;</font><font color="#999999">106237007 |Linkage concept|</font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;|Organisation|</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;|Organization|</font>
     </p>
     <p>
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values| </font>

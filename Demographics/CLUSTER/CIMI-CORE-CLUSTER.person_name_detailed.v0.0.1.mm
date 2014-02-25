@@ -32,7 +32,7 @@
       <b><font color="#000000">OriginalAuthorDate:</font></b>
     </p>
     <p>
-      <b><font color="#000000">OriginalAuthorOrganisation: </font></b>
+      <b><font color="#000000">OriginalAuthorOrganization: </font></b>
     </p>
     <p>
       <b><font color="#000000">Contributors: </font></b>

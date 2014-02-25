@@ -10,7 +10,7 @@
       <b><font color="#000000">Employer</font></b>
     </p>
     <p style="text-align: center">
-      <font color="#660066">(Organisation relationship)</font>
+      <font color="#660066">(Organization relationship)</font>
     </p>
   </body>
 </html></richcontent>
@@ -32,7 +32,7 @@
       <b><font color="#000000">OriginalAuthorDate:</font></b>
     </p>
     <p>
-      <b><font color="#000000">OriginalAuthorOrganisation: </font></b>
+      <b><font color="#000000">OriginalAuthorOrganization: </font></b>
     </p>
     <p>
       <b><font color="#000000">Contributors: </font></b>

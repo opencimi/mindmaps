@@ -32,7 +32,7 @@
       <b><font color="#000000">OriginalAuthorDate:</font></b>
     </p>
     <p>
-      <b><font color="#000000">OriginalAuthorOrganisation: </font></b>
+      <b><font color="#000000">OriginalAuthorOrganization: </font></b>
     </p>
     <p>
       <b><font color="#000000">Contributors: </font></b>
@@ -661,7 +661,7 @@
   </head>
   <body>
     <p>
-      <b>Registering organisation</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#660066">(details)</font><b>&#160; </b><font color="#0000ff">(details: ELEMENT)</font>
+      <b>Registering organization</b>:<b>&#160;</b><font color="#009900">TEXT [0..1]</font><b>&#160;</b><font color="#660066">(details)</font><b>&#160; </b><font color="#0000ff">(details: ELEMENT)</font>
     </p>
   </body>
 </html></richcontent>
@@ -1005,7 +1005,7 @@
       <b><font color="#000000">Employer</font></b>: <font color="#009933">REF&lt;CIMI-CORE-PARTY_RELATIONSHIP.employer_relationship&gt; [0..*]</font>&#160;
     </p>
     <p>
-      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font color="#660066">(organisation relationship)&#160;</font>&#160;(relationship: PARTY_RELATIONSHIP)
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font color="#660066">(organization relationship)&#160;</font>&#160;(relationship: PARTY_RELATIONSHIP)
     </p>
   </body>
 </html></richcontent>
@@ -1021,7 +1021,7 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Has participation|</font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;48176007&#160;|Social context| or 308912000 |Agencies and organisations| or 49062001 |Device|</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;48176007&#160;|Social context| or 308912000 |Agencies and organizations| or 49062001 |Device|</font>
     </p>
     <p>
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font><font color="#cc0000">&#160; </font>
@@ -1453,7 +1453,7 @@
   </head>
   <body>
     <p>
-      <font color="#660066">Organisation relationship</font>: <font color="#009933">REF&lt;CIMI-CORE-PARTY_RELATIONSHIP.organisation_relationship&gt; [0..*]</font>&#160;
+      <font color="#660066">Organization relationship</font>: <font color="#009933">REF&lt;CIMI-CORE-PARTY_RELATIONSHIP.organization_relationship&gt; [0..*]</font>&#160;
     </p>
     <p>
       &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(relationship: PARTY_RELATIONSHIP)
@@ -1472,7 +1472,7 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Has participation|</font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;48176007&#160;|Social context| or 308912000 |Agencies and organisations| or 49062001 |Device|</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;48176007&#160;|Social context| or 308912000 |Agencies and organizations| or 49062001 |Device|</font>
     </p>
     <p>
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font><font color="#cc0000">&#160; </font>
@@ -1753,7 +1753,7 @@
       <font color="#000000">&#160;&#160;&#160;&#160;&#160;Relationship =</font><font color="#cc0000">&#160;|Has participation|</font>
     </p>
     <p>
-      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;48176007&#160;|Social context| or 308912000 |Agencies and organisations| or 49062001 |Device|</font>
+      <font color="#000000">&#160;&#160;&#160;&#160;&#160;Object =</font><font color="#cc0000">&#160;48176007&#160;|Social context| or 308912000 |Agencies and organizations| or 49062001 |Device|</font>
     </p>
     <p>
       &#160;&#160;&#160;&#160;&#160;Modifier = <font color="#999999">288529006 |Context values|</font><font color="#cc0000">&#160; </font>

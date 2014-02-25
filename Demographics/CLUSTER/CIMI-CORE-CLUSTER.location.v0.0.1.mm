@@ -32,7 +32,7 @@
       <b><font color="#000000">OriginalAuthorDate:</font></b>
     </p>
     <p>
-      <b><font color="#000000">OriginalAuthorOrganisation: </font></b>
+      <b><font color="#000000">OriginalAuthorOrganization: </font></b>
     </p>
     <p>
       <b><font color="#000000">Contributors: </font></b>
@@ -671,7 +671,7 @@
   </head>
   <body>
     <p>
-      <b>Organisation</b>:<b>&#160;</b><font color="#009900">PARTICIPATION [0..1]</font><b>&#160;</b><font color="#0000ff">(participation: PARTICIPATION)</font>
+      <b>Organization</b>:<b>&#160;</b><font color="#009900">PARTICIPATION [0..1]</font><b>&#160;</b><font color="#0000ff">(participation: PARTICIPATION)</font>
     </p>
   </body>
 </html></richcontent>
